@@ -756,7 +756,7 @@
 					"version": "1.0.0",
 					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/hartlab/hartlab.zip",
 					"license": "ISC",
-					"description": "Test plugin",
+					"description": "Hartlab test plugin (description)",
 					"details": "Hartlab test plugin",
 					"author": "hartlabteam",
 					"screenshots": [
