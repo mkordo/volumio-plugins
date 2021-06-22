@@ -748,6 +748,24 @@
 						}
 					],
 					"updated": "23-5-2021"
+				},
+				{
+					"prettyName": "hartlab",
+					"icon": "fa-lightbulb-o",
+					"name": "hartlab",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/hartlab/hartlab.zip",
+					"license": "ISC",
+					"description": "Test plugin",
+					"details": "Hartlab test plugin",
+					"author": "hartlabteam",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "22-6-2021"
 				}
 			]
 		},
